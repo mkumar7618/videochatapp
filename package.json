@@ -58,9 +58,9 @@
   "analyze": false,
   "license": "MIT",
   "readmeFilename": "README.md",
-  "homepage": "https://rtcmulticonnection.herokuapp.com/demos/",
+  "homepage": "https://videocallchat.herokuapp.com/demos/",
   "tonicExampleFilename": "npm-test.js",
-  "_from": "rtcmulticonnection@",
+  "_from": "videocallchat@",
   "devDependencies": {
     "grunt": "0.4.5",
     "grunt-bump": "0.7.0",
