@@ -8,7 +8,7 @@
   "description": "RTCMultiConnection is a WebRTC JavaScript wrapper library runs top over RTCPeerConnection API to support all possible peer-to-peer features.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/muaz-khan/RTCMultiConnection.git"
+    "url": "https://github.com/mkumar7618/videochatapp.git"
   },
   "scripts": {
     "start": "node server.js",
